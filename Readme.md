@@ -53,14 +53,5 @@ Based on the insights from the churn analysis, targeted retention strategies wer
 
 Detailed recommendations are documented in the [insights/retention_strategy.md](insights/retention_strategy.md) file.
 
-## Repository Structure
-customer-churn-analysis/
-│
-├── data/                  # Dataset used for analysis
-├── dashboard/             # Power BI dashboard file
-├── insights/              # Retention strategy document
-├── screenshots/           # Dashboard screenshot
-└── README.md              # Project documentation
-
 ## Conclusion
 This project demonstrates how data analysis and visualization can be used to understand customer churn, identify key risk factors, and support strategic business decisions through actionable insights.
