@@ -34,7 +34,9 @@ The Power BI dashboard includes:
 - Impact of payment method and monthly charges on churn
 - Interactive slicers for contract type, tenure group, and internet service
 
-A snapshot of the final dashboard is available in the `screenshots/dashboard_overview.png` file.
+A snapshot of the final dashboard is available below:
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ## Key Insights
 - Customers on month-to-month contracts exhibit significantly higher churn rates  
@@ -49,7 +51,7 @@ Based on the insights from the churn analysis, targeted retention strategies wer
 - Promoting automatic payment methods
 - Offering personalized pricing plans for high-value customers  
 
-Detailed recommendations are documented in the `insights/retention_strategy.md` file.
+Detailed recommendations are documented in the [insights/retention_strategy.md](insights/retention_strategy.md) file.
 
 ## Repository Structure
 customer-churn-analysis/
